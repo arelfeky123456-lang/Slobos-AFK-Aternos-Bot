@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "ehda ya3am",
+        "/register 12@34Asd 12@34Asd",
+        "/login 12@34Asd",
         "kos om minecraft"
       ]
     },
